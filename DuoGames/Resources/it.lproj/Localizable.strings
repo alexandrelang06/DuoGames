@@ -1,0 +1,153 @@
+/* Giochi */
+"game.airHockey.title" = "Air Hockey";
+"game.airHockey.pitch" = "Il disco vola, contano i riflessi.";
+"game.chess.title"     = "Scacchi";
+"game.chess.pitch"     = "Il grande classico, faccia a faccia.";
+"game.draughts.title"  = "Dama";
+"game.draughts.pitch"  = "Prese obbligatorie, dame volanti.";
+"game.tron.title"      = "Tron";
+"game.tron.pitch"      = "Due scie, un solo superstite.";
+"game.mill.title"      = "Mulino";
+"game.mill.pitch"      = "Allinea tre, lascia l'altro senza pedine.";
+
+/* Posti */
+"seat.one" = "Giocatore 1";
+"seat.two" = "Giocatore 2";
+
+/* Schieramenti */
+"chess.player.white"     = "Bianchi";
+"chess.player.black"     = "Neri";
+"draughts.player.white"  = "Bianchi";
+"draughts.player.black"  = "Neri";
+"mill.player.white"      = "Bianchi";
+"mill.player.black"      = "Neri";
+"tron.rider.cyan"        = "Ciano";
+"tron.rider.magenta"     = "Magenta";
+"airhockey.player.near"  = "Lato vicino";
+"airhockey.player.far"   = "Lato opposto";
+
+/* Pezzi degli scacchi */
+"chess.piece.pawn"   = "Pedone";
+"chess.piece.knight" = "Cavallo";
+"chess.piece.bishop" = "Alfiere";
+"chess.piece.rook"   = "Torre";
+"chess.piece.queen"  = "Donna";
+"chess.piece.king"   = "Re";
+
+/* Introduzione */
+"onboarding.step1.title"    = "Appoggia il telefono in piano";
+"onboarding.step1.subtitle" = "Ben aperto, al centro del tavolo.";
+"onboarding.step2.title"    = "Sedetevi uno di fronte all'altro";
+"onboarding.step2.subtitle" = "Ciascuno da un lato della piega.";
+"onboarding.step3.title"    = "Si gioca";
+"onboarding.step3.subtitle" = "Nessun account, nessuna connessione. Si gioca e basta.";
+"onboarding.skip"           = "Salta";
+"onboarding.next"           = "Avanti";
+
+/* Postura */
+"pose.closed"    = "Chiuso";
+"pose.portrait"  = "Verticale";
+"pose.landscape" = "Orizzontale";
+"pose.seated"    = "Appoggiato";
+"pose.standing"  = "In piedi";
+"pose.unknown"   = "Sconosciuta";
+"guidance.layFlat"   = "Apri il dispositivo in piano sul tavolo";
+"guidance.needsFlat" = "La partita riprende appena il dispositivo è in piano";
+"guidance.ready"     = "Si gioca";
+
+/* Menu e navigazione */
+"hub.title"       = "Duo Games";
+"hub.subtitle"    = "Due giocatori, un dispositivo.";
+"hub.locked"      = "Bloccato";
+"nav.profile"     = "Giocatori";
+"nav.settings"    = "Impostazioni";
+"nav.leaderboard" = "Classifica";
+"nav.back"        = "Indietro";
+"nav.close"       = "Chiudi";
+
+/* Tutorial e gioco */
+"tutorial.start"     = "Inizia";
+"game.yourTurn"      = "Tocca a te";
+"game.opponentTurn"  = "Turno dell'avversario";
+"game.pause"         = "Pausa";
+"game.resume"        = "Riprendi";
+"game.quit"          = "Esci dalla partita";
+
+/* Fine partita */
+"result.victory"   = "Vittoria";
+"result.defeat"    = "Sconfitta";
+"result.draw"      = "Pareggio";
+"result.rematch"   = "Rivincita";
+"result.backToHub" = "Scegli un altro gioco";
+"result.check"     = "Scacco";
+"result.checkmate" = "Scacco matto";
+"result.stalemate" = "Stallo";
+
+/* Giocatori */
+"profile.title"   = "Giocatori";
+"profile.wins"    = "vittorie";
+"profile.draws"   = "pareggi";
+"profile.duels"   = "Duelli recenti";
+"profile.rename"  = "Nome";
+"profile.avatar"  = "Avatar";
+"profile.privacy" = "Nessun account da creare. I vostri nomi e punteggi restano su questo dispositivo; solo le classifiche di Game Center, se le attivi, sono condivise con Apple.";
+
+/* Impostazioni */
+"settings.sound"       = "Suoni";
+"settings.haptics"     = "Vibrazione";
+"settings.language"    = "Lingua";
+"settings.licenses"    = "Licenze";
+"settings.diagnostics" = "Diagnostica";
+
+/* Dama e mulino */
+"draughts.mustCapture" = "Presa obbligatoria";
+"mill.place"           = "Posiziona una pedina";
+"mill.removePiece"     = "Rimuovi una pedina avversaria";
+"leaderboard.gameCenter" = "Game Center";
+
+/* Accessibilità */
+"hub.gamesList"       = "Elenco dei giochi";
+"hub.hint.play"       = "Avvia una partita";
+"hub.hint.locked"     = "Apre la schermata di sblocco";
+"onboarding.progress %lld %lld" = "Passo %lld di %lld";
+
+/* Tutorial */
+"game.airHockey.tutorial" = "Appoggiate il telefono in piano tra voi. Ognuno difende la porta in basso dal proprio lato.\n\nScorri il dito nella tua metà per muovere il maglio. Colpisci il disco verso la porta avversaria. Vince chi arriva prima a 7 gol.\n\nIl maglio non supera mai la linea centrale.";
+"game.chess.tutorial" = "Scacchi classici, faccia a faccia. Il Bianco gioca dal basso, il Nero dall'alto, dritti per ciascun giocatore.\n\nTocca un tuo pezzo per vedere le mosse possibili, poi tocca la casa d'arrivo. Arrocco, presa en passant e promozione sono gestiti in automatico.\n\nDai scacco matto al re avversario per vincere.";
+"game.draughts.tutorial" = "Dama internazionale, su scacchiera 10 per 10. Bianco in basso, Nero in alto.\n\nTocca una pedina e poi una casa scura libera. La presa è obbligatoria: quando ci sono prese, devi giocare la più lunga. Una pedina che raggiunge il fondo diventa dama, che vola lungo tutta la diagonale.\n\nCattura tutte le pedine avversarie per vincere.";
+"game.tron.tutorial" = "Due moto di luce, un'arena. Ognuno guida dalla propria metà.\n\nScorri in una direzione per svoltare. La tua moto lascia una scia dietro di sé. Non colpire un muro, una scia o l'altra moto.\n\nVince l'ultimo rimasto in gioco.";
+"game.mill.tutorial" = "Il mulino, su tre quadrati collegati. Ognuno ha nove pedine.\n\nPrima, a turno, posizionate le pedine sulle intersezioni. Poi muovetele lungo le linee. Allinearne tre forma un mulino e ti permette di togliere una pedina avversaria.\n\nRiduci l'avversario a due pedine, o bloccalo, per vincere.";
+
+/* Aspetto */
+"settings.section.game"       = "Gioco";
+"settings.section.appearance" = "Aspetto";
+"appearance.system"           = "Sistema";
+"appearance.light"            = "Chiaro";
+"appearance.dark"             = "Scuro";
+"licenses.fonts"              = "Font";
+"licenses.sounds"             = "Suoni";
+"licenses.note"               = "Tutte le risorse sono a uso commerciale libero. Il dettaglio è nel repository.";
+
+/* Sblocco e in arrivo */
+"unlock.title"            = "Sblocca tutta la collezione";
+"unlock.subtitle"         = "Altri quattro giochi, in due, su un solo dispositivo.";
+"unlock.trust.once"       = "Un solo acquisto, sbloccato per sempre";
+"unlock.trust.noSub"      = "Nessun abbonamento, nessuna pubblicità";
+"unlock.trust.family"     = "Include In famiglia";
+"hub.comingSoon.title"    = "Altri giochi in arrivo";
+"hub.comingSoon.subtitle" = "La collezione cresce spesso, senza pagare di nuovo.";
+
+/* Lingua */
+"settings.section.language" = "Lingua";
+"language.system" = "Sistema";
+"onboarding.language.title" = "Scegli la lingua";
+
+/* ---------- Paywall états ---------- */
+"unlock.loading"     = "Caricamento dell'offerta…";
+"unlock.unavailable" = "Offerta non disponibile al momento.";
+"unlock.retry"       = "Riprova";
+
+/* ---------- Prénoms ---------- */
+"names.title"    = "Chi gioca?";
+"names.subtitle" = "Due nomi, per tenere il punteggio.";
+"names.continue" = "Continua";

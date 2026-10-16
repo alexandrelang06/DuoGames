@@ -1,0 +1,32 @@
+{
+  "identifier": "DUOGAMES-LOCAL",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": true,
+      "internalID": "1000000001",
+      "localizations": [
+        {
+          "description": "Échecs, dames, Tron et le jeu du moulin. Pour toujours.",
+          "displayName": "La collection",
+          "locale": "fr_FR"
+        },
+        {
+          "description": "Chess, Draughts, Tron and Nine Men's Morris. Forever.",
+          "displayName": "The collection",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.duogames.unlock.collection",
+      "referenceName": "Collection",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}

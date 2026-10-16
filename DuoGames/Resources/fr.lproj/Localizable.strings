@@ -1,0 +1,160 @@
+/* ---------- Jeux ---------- */
+"game.airHockey.title" = "Air hockey";
+"game.airHockey.pitch" = "Le palet file, les réflexes parlent.";
+"game.chess.title"     = "Échecs";
+"game.chess.pitch"     = "Le grand classique, face à face.";
+"game.draughts.title"  = "Dames";
+"game.draughts.pitch"  = "Rafles obligatoires, dames volantes.";
+"game.tron.title"      = "Tron";
+"game.tron.pitch"      = "Deux traînées, un seul survivant.";
+"game.mill.title"      = "Jeu du moulin";
+"game.mill.pitch"      = "Alignez trois pions, privez l'autre des siens.";
+
+/* ---------- Places ---------- */
+"seat.one" = "Joueur 1";
+"seat.two" = "Joueur 2";
+
+/* ---------- Camps ---------- */
+"chess.player.white"     = "Blancs";
+"chess.player.black"     = "Noirs";
+"draughts.player.white"  = "Blancs";
+"draughts.player.black"  = "Noirs";
+"mill.player.white"      = "Blancs";
+"mill.player.black"      = "Noirs";
+"tron.rider.cyan"        = "Cyan";
+"tron.rider.magenta"     = "Magenta";
+"airhockey.player.near"  = "Côté proche";
+"airhockey.player.far"   = "Côté opposé";
+
+/* ---------- Pièces d'échecs ---------- */
+"chess.piece.pawn"   = "Pion";
+"chess.piece.knight" = "Cavalier";
+"chess.piece.bishop" = "Fou";
+"chess.piece.rook"   = "Tour";
+"chess.piece.queen"  = "Dame";
+"chess.piece.king"   = "Roi";
+
+/* ---------- Onboarding ---------- */
+"onboarding.step1.title"    = "Pose le téléphone à plat";
+"onboarding.step1.subtitle" = "Ouvert complètement, au milieu de la table.";
+"onboarding.step2.title"    = "Installez-vous face à face";
+"onboarding.step2.subtitle" = "Chacun de son côté du pli.";
+"onboarding.step3.title"    = "À vous de jouer";
+"onboarding.step3.subtitle" = "Aucun compte, aucune connexion. On joue.";
+"onboarding.skip"           = "Passer";
+"onboarding.next"           = "Suivant";
+
+/* ---------- Posture ---------- */
+"pose.closed"    = "Replié";
+"pose.portrait"  = "Portrait";
+"pose.landscape" = "Paysage";
+"pose.seated"    = "Posé";
+"pose.standing"  = "Debout";
+"pose.unknown"   = "Indéterminée";
+"guidance.layFlat"   = "Ouvre l'appareil à plat sur la table";
+"guidance.needsFlat" = "La partie reprend dès que l'appareil est à plat";
+"guidance.ready"     = "C'est parti";
+
+/* ---------- Hub et navigation ---------- */
+"hub.title"       = "Duo Games";
+"hub.subtitle"    = "Deux joueurs, un appareil.";
+"hub.locked"      = "Verrouillé";
+"nav.profile"     = "Espace joueur";
+"nav.settings"    = "Réglages";
+"nav.leaderboard" = "Classement";
+"nav.back"        = "Retour";
+"nav.close"       = "Fermer";
+
+/* ---------- Tutoriel et partie ---------- */
+"tutorial.start"     = "Commencer";
+"game.yourTurn"      = "À toi de jouer";
+"game.opponentTurn"  = "Au tour de l'adversaire";
+"game.pause"         = "Pause";
+"game.resume"        = "Reprendre";
+"game.quit"          = "Quitter la partie";
+
+/* ---------- Fin de partie ---------- */
+"result.victory"  = "Victoire";
+"result.defeat"   = "Défaite";
+"result.draw"     = "Match nul";
+"result.rematch"  = "Revanche";
+"result.backToHub" = "Choisir un autre jeu";
+"result.check"    = "Échec";
+"result.checkmate" = "Échec et mat";
+"result.stalemate" = "Pat";
+
+/* ---------- Espace joueur ---------- */
+"profile.title"   = "Espace joueur";
+"profile.wins"    = "victoires";
+"profile.draws"   = "nuls";
+"profile.duels"   = "Derniers duels";
+"profile.rename"  = "Prénom";
+"profile.avatar"  = "Avatar";
+"profile.privacy" = "Aucun compte à créer. Vos prénoms et vos scores restent sur l'appareil ; seuls les classements Game Center, si vous les activez, sont partagés avec Apple.";
+
+/* ---------- Déblocage ---------- */
+"unlock.title"    = "Débloque la collection";
+"unlock.subtitle" = "Échecs, dames, Tron et le jeu du moulin. Un achat unique, pour toujours.";
+"unlock.buy"      = "Débloquer";
+"unlock.restore"  = "Restaurer mes achats";
+"unlock.later"    = "Plus tard";
+
+/* ---------- Réglages ---------- */
+"settings.sound"     = "Sons";
+"settings.haptics"   = "Vibrations";
+"settings.language"  = "Langue";
+"settings.licenses"  = "Licences";
+"settings.diagnostics" = "Diagnostic";
+
+/* ---------- Dames et moulin ---------- */
+"draughts.mustCapture" = "Prise obligatoire";
+"mill.place"           = "Pose un pion";
+"mill.removePiece"     = "Retire un pion adverse";
+"leaderboard.gameCenter" = "Game Center";
+
+/* ---------- Accessibilité ---------- */
+"hub.gamesList"       = "Liste des jeux";
+"hub.hint.play"       = "Lance une partie";
+"hub.hint.locked"     = "Ouvre l\'écran de déblocage";
+"onboarding.progress %lld %lld" = "Étape %lld sur %lld";
+
+/* ---------- Tutoriels ---------- */
+"game.airHockey.tutorial" = "Posez le téléphone à plat entre vous. Chacun garde son but, en bas de son côté.\n\nGlissez le doigt dans votre moitié pour déplacer votre maillet. Frappez le palet pour l'envoyer dans le but adverse. Premier à 7 buts gagne.\n\nLe maillet ne franchit jamais la ligne du milieu.";
+"game.chess.tutorial" = "Les échecs classiques, en face à face. Les blancs jouent en bas, les noirs en haut, à l'endroit pour chaque joueur.\n\nTouchez une de vos pièces pour voir ses coups possibles, puis touchez la case d'arrivée. Le roque, la prise en passant et la promotion sont gérés automatiquement.\n\nMettez le roi adverse échec et mat pour gagner.";
+"game.draughts.tutorial" = "Les dames internationales, sur damier 10 sur 10. Les blancs en bas, les noirs en haut.\n\nTouchez un pion, puis une case sombre libre. La prise est obligatoire : s'il y a des prises, vous devez jouer la plus longue. Un pion atteignant le fond devient une dame, qui vole sur toute la diagonale.\n\nCapturez tous les pions adverses pour gagner.";
+"game.tron.tutorial" = "Deux motos lumineuses, une arène. Chacun pilote depuis sa moitié.\n\nGlissez le doigt dans une direction pour tourner. Votre moto laisse une traînée derrière elle. Ne foncez ni dans un mur, ni dans une traînée, ni dans l'autre moto.\n\nLe dernier en vie gagne.";
+"game.mill.tutorial" = "Le jeu du moulin, sur trois carrés reliés. Chacun a neuf pions.\n\nD'abord, posez vos pions à tour de rôle sur les intersections. Ensuite, déplacez-les le long des lignes. Aligner trois pions forme un moulin : vous retirez alors un pion adverse.\n\nRéduisez l'adversaire à deux pions, ou bloquez-le, pour gagner.";
+
+/* ---------- Apparence ---------- */
+"settings.section.game"       = "Jeu";
+"settings.section.appearance" = "Apparence";
+"appearance.system"           = "Système";
+"appearance.light"            = "Clair";
+"appearance.dark"             = "Sombre";
+"licenses.fonts"              = "Polices";
+"licenses.sounds"             = "Sons";
+"licenses.note"               = "Toutes les ressources sont libres de droits pour un usage commercial. Le détail figure dans le dépôt.";
+
+/* ---------- Paywall et bientôt ---------- */
+"unlock.title"            = "Débloquez toute la collection";
+"unlock.subtitle"         = "Quatre jeux de plus, à deux, sur un seul appareil.";
+"unlock.trust.once"       = "Un seul achat, débloqué pour toujours";
+"unlock.trust.noSub"      = "Aucun abonnement, aucune publicité";
+"unlock.trust.family"     = "Partage familial inclus";
+"hub.comingSoon.title"    = "D'autres jeux arrivent";
+"hub.comingSoon.subtitle" = "La collection s'agrandit régulièrement, sans rien repayer.";
+
+/* ---------- Langue ---------- */
+"settings.section.language" = "Langue";
+"language.system"           = "Système";
+"onboarding.language.title" = "Choisis ta langue";
+
+/* ---------- Paywall états ---------- */
+"unlock.loading"     = "Chargement de l'offre…";
+"unlock.unavailable" = "Offre indisponible pour le moment.";
+"unlock.retry"       = "Réessayer";
+
+/* ---------- Prénoms ---------- */
+"names.title"    = "Qui joue ?";
+"names.subtitle" = "Deux prénoms, pour suivre les scores.";
+"names.continue" = "Continuer";

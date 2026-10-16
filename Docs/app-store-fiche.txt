@@ -1,0 +1,99 @@
+═══════════════════════════════════════════════════════════════════════════
+FICHE APP STORE — DUO GAMES   (document interne, NE PAS publier tel quel)
+Bundle : com.duogames.app · Catégorie : Jeux · Prix : gratuit + achat 3,99 €
+Argument central : LE JEU FACE À FACE, PENSÉ POUR L'IPHONE DUO PLIABLE.
+À coller dans App Store Connect. Respecte les limites de caractères.
+═══════════════════════════════════════════════════════════════════════════
+
+───────────────────────────────────────────────────────────────────────────
+FRANÇAIS (langue principale)
+───────────────────────────────────────────────────────────────────────────
+
+NOM DE L'APP (max 30 car.)
+Duo Games : jeux 2 joueurs
+
+SOUS-TITRE (max 30 car.)
+Face à face sur iPhone Duo
+
+MOTS-CLÉS (max 100 car., virgules, sans espace superflu)
+2 joueurs,jeux a deux,iphone duo,pliable,air hockey,echecs,dames,tron,duel,famille,hors ligne,sans pub
+
+TEXTE PROMOTIONNEL (max 170 car.)
+Posez l'iPhone Duo à plat, dépliez, et affrontez-vous en vrai. Cinq jeux à deux, un joueur de chaque côté du pli. Sans pub, sans abonnement, hors-ligne.
+
+DESCRIPTION (max 4000 car.)
+Duo Games est LE jeu à deux pensé pour l'iPhone Duo. Dépliez l'écran, posez-le à plat entre vous, et jouez face à face : chacun son côté du pli, chacun sa moitié de l'écran, à l'endroit pour lui. C'est le duel de table, version 2026.
+
+FAIT POUR LE PLIABLE
+La charnière n'est pas un défaut, c'est le terrain de jeu. L'interface se retourne pour l'adversaire, les commandes tombent sous chaque pouce, et l'appareil à plat devient une vraie table de jeu partagée. Aucune autre app n'utilise le Duo comme ça.
+
+CINQ VRAIS JEUX, SOIGNÉS
+• Air Hockey : le palet glisse d'un côté à l'autre du pli, réflexes obligatoires.
+• Échecs : plateau tête-bêche, pièces lisibles à l'endroit pour chaque joueur.
+• Dames : le classique, en duel direct.
+• Tron : deux motos de lumière, ne croise pas ta trace.
+• Jeu du Moulin : aligne trois pions, capture ceux de l'adversaire.
+
+Pas de fausse promesse de « 1000 jeux » : cinq jeux finis, équilibrés, agréables à rejouer.
+
+CE QU'ON NE FERA JAMAIS
+• Aucune publicité. (Pas de pub entre deux manches.)
+• Aucun abonnement. Un seul achat, pour toujours.
+• 100 % hors-ligne. Rien à télécharger, rien qui vous piste.
+
+GRATUIT POUR ESSAYER
+Commencez gratuitement, puis débloquez toute la collection pour 3,99 € (achat unique, Family Sharing inclus). Parfait pour les trajets, les salles d'attente, les soirées en famille.
+
+Deux joueurs, un appareil, zéro connexion. Dépliez et jouez.
+
+NOUVEAUTÉS (What's New — max 4000 car.)
+Première version de Duo Games :
+• 5 jeux à deux pensés pour l'écran plié de l'iPhone Duo.
+• Jeu face à face, interface tête-bêche pour l'adversaire.
+• Sans pub, sans abonnement, 100 % hors-ligne.
+• Game Center et 5 langues.
+Dites-nous quels jeux ajouter ensuite !
+
+───────────────────────────────────────────────────────────────────────────
+ENGLISH (secondary)
+───────────────────────────────────────────────────────────────────────────
+
+APP NAME (max 30)
+Duo Games: 2 Player Games
+
+SUBTITLE (max 30)
+Face to face on iPhone Duo
+
+KEYWORDS (max 100)
+2 player,two player,iphone duo,foldable,air hockey,chess,checkers,tron,duel,family,offline,no ads
+
+PROMOTIONAL TEXT (max 170)
+Lay the iPhone Duo flat, unfold, and face off for real. Five two-player games, one player on each side of the fold. No ads, no subscription, offline.
+
+DESCRIPTION (max 4000)
+Duo Games is THE two-player game made for the iPhone Duo. Unfold the screen, lay it flat between you, and play face to face: each player on their own side of the fold, everything the right way up for them. Tabletop dueling, 2026 edition.
+
+MADE FOR THE FOLD
+The hinge isn't a flaw, it's the playing field. The interface flips for your opponent, controls fall under each thumb, and the flat device becomes a shared game table. No other app uses the Duo like this.
+
+FIVE REAL, POLISHED GAMES
+• Air Hockey, Chess (upside-down board per player), Checkers, Tron light-cycles, Nine Men's Morris.
+No fake "1000 games" promise, just five finished, balanced games worth replaying.
+
+WHAT WE'LL NEVER DO
+• No ads. • No subscription, one purchase forever. • Fully offline, no tracking.
+
+Free to try, then unlock the whole collection for 3.99 (one-time, Family Sharing included).
+Two players, one device, zero connection. Unfold and play.
+
+───────────────────────────────────────────────────────────────────────────
+NOTES ASO
+• Le différenciateur DÉFENDABLE de Duo Games est le matériel : marteler « iPhone Duo » et « face à
+  face » dans le nom, le sous-titre, la 1re phrase et la 1re capture. C'est ce qui vous distingue
+  de la marée de « 2 player games » gratuits (Jindoblu & co).
+• Contre-positionnement issu de l'étude de marché : honnêteté (pas de faux « 1000 jeux »), pas de
+  pub inappropriée, pas de bots truqués. À montrer sur les captures.
+• Captures suggérées : 1) l'appareil plié à plat avec deux joueurs (hero « fait pour Duo »),
+  2) air hockey en cours, 3) échecs tête-bêche, 4) « sans pub, sans abonnement », 5) les 5 jeux.
+• Prévoir une capture/vidéo qui montre littéralement le pli au milieu : c'est l'argument visuel fort.
+═══════════════════════════════════════════════════════════════════════════

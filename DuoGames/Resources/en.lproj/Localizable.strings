@@ -1,0 +1,160 @@
+/* ---------- Games ---------- */
+"game.airHockey.title" = "Air Hockey";
+"game.airHockey.pitch" = "The puck flies, reflexes decide.";
+"game.chess.title"     = "Chess";
+"game.chess.pitch"     = "The great classic, face to face.";
+"game.draughts.title"  = "Draughts";
+"game.draughts.pitch"  = "Forced captures, flying kings.";
+"game.tron.title"      = "Tron";
+"game.tron.pitch"      = "Two trails, one survivor.";
+"game.mill.title"      = "Nine Men's Morris";
+"game.mill.pitch"      = "Line up three, strip the other bare.";
+
+/* ---------- Seats ---------- */
+"seat.one" = "Player 1";
+"seat.two" = "Player 2";
+
+/* ---------- Sides ---------- */
+"chess.player.white"     = "White";
+"chess.player.black"     = "Black";
+"draughts.player.white"  = "White";
+"draughts.player.black"  = "Black";
+"mill.player.white"      = "White";
+"mill.player.black"      = "Black";
+"tron.rider.cyan"        = "Cyan";
+"tron.rider.magenta"     = "Magenta";
+"airhockey.player.near"  = "Near side";
+"airhockey.player.far"   = "Far side";
+
+/* ---------- Chess pieces ---------- */
+"chess.piece.pawn"   = "Pawn";
+"chess.piece.knight" = "Knight";
+"chess.piece.bishop" = "Bishop";
+"chess.piece.rook"   = "Rook";
+"chess.piece.queen"  = "Queen";
+"chess.piece.king"   = "King";
+
+/* ---------- Onboarding ---------- */
+"onboarding.step1.title"    = "Lay the phone flat";
+"onboarding.step1.subtitle" = "Fully open, in the middle of the table.";
+"onboarding.step2.title"    = "Sit facing each other";
+"onboarding.step2.subtitle" = "One of you on each side of the fold.";
+"onboarding.step3.title"    = "Your move";
+"onboarding.step3.subtitle" = "No account, no connection. Just play.";
+"onboarding.skip"           = "Skip";
+"onboarding.next"           = "Next";
+
+/* ---------- Posture ---------- */
+"pose.closed"    = "Closed";
+"pose.portrait"  = "Portrait";
+"pose.landscape" = "Landscape";
+"pose.seated"    = "Seated";
+"pose.standing"  = "Standing";
+"pose.unknown"   = "Unknown";
+"guidance.layFlat"   = "Open the device flat on the table";
+"guidance.needsFlat" = "The game resumes as soon as the device is flat";
+"guidance.ready"     = "Let's play";
+
+/* ---------- Hub and navigation ---------- */
+"hub.title"       = "Duo Games";
+"hub.subtitle"    = "Two players, one device.";
+"hub.locked"      = "Locked";
+"nav.profile"     = "Players";
+"nav.settings"    = "Settings";
+"nav.leaderboard" = "Leaderboard";
+"nav.back"        = "Back";
+"nav.close"       = "Close";
+
+/* ---------- Tutorial and play ---------- */
+"tutorial.start"     = "Start";
+"game.yourTurn"      = "Your turn";
+"game.opponentTurn"  = "Opponent's turn";
+"game.pause"         = "Pause";
+"game.resume"        = "Resume";
+"game.quit"          = "Quit game";
+
+/* ---------- Game over ---------- */
+"result.victory"   = "Victory";
+"result.defeat"    = "Defeat";
+"result.draw"      = "Draw";
+"result.rematch"   = "Rematch";
+"result.backToHub" = "Pick another game";
+"result.check"     = "Check";
+"result.checkmate" = "Checkmate";
+"result.stalemate" = "Stalemate";
+
+/* ---------- Players ---------- */
+"profile.title"   = "Players";
+"profile.wins"    = "wins";
+"profile.draws"   = "draws";
+"profile.duels"   = "Recent duels";
+"profile.rename"  = "Name";
+"profile.avatar"  = "Avatar";
+"profile.privacy" = "No account to create. Your names and scores stay on this device; only Game Center leaderboards, if you turn them on, are shared with Apple.";
+
+/* ---------- Unlock ---------- */
+"unlock.title"    = "Unlock the collection";
+"unlock.subtitle" = "Chess, Draughts, Tron and Nine Men's Morris. One purchase, forever.";
+"unlock.buy"      = "Unlock";
+"unlock.restore"  = "Restore purchases";
+"unlock.later"    = "Later";
+
+/* ---------- Settings ---------- */
+"settings.sound"       = "Sound";
+"settings.haptics"     = "Haptics";
+"settings.language"    = "Language";
+"settings.licenses"    = "Licences";
+"settings.diagnostics" = "Diagnostics";
+
+/* ---------- Draughts and mill ---------- */
+"draughts.mustCapture" = "Capture required";
+"mill.place"           = "Place a piece";
+"mill.removePiece"     = "Remove an opponent's piece";
+"leaderboard.gameCenter" = "Game Center";
+
+/* ---------- Accessibility ---------- */
+"hub.gamesList"       = "Games list";
+"hub.hint.play"       = "Starts a game";
+"hub.hint.locked"     = "Opens the unlock screen";
+"onboarding.progress %lld %lld" = "Step %lld of %lld";
+
+/* ---------- Tutorials ---------- */
+"game.airHockey.tutorial" = "Lay the phone flat between you. Each of you defends the goal at the bottom of your side.\n\nSlide your finger in your half to move your mallet. Hit the puck into the opponent's goal. First to 7 goals wins.\n\nYour mallet never crosses the centre line.";
+"game.chess.tutorial" = "Classic chess, face to face. White plays from the bottom, Black from the top, upright for each player.\n\nTap one of your pieces to see its legal moves, then tap the destination. Castling, en passant and promotion are handled for you.\n\nCheckmate the opponent's king to win.";
+"game.draughts.tutorial" = "International draughts, on a 10-by-10 board. White at the bottom, Black at the top.\n\nTap a piece, then a free dark square. Capturing is mandatory: when captures exist, you must play the longest one. A piece reaching the far row becomes a king that flies along the whole diagonal.\n\nCapture all the opponent's pieces to win.";
+"game.tron.tutorial" = "Two light cycles, one arena. Each of you steers from your half.\n\nSwipe in a direction to turn. Your cycle leaves a trail behind it. Don't hit a wall, a trail, or the other cycle.\n\nLast one riding wins.";
+"game.mill.tutorial" = "Nine Men's Morris, on three linked squares. Each of you has nine pieces.\n\nFirst, take turns placing your pieces on the intersections. Then move them along the lines. Lining up three forms a mill, letting you remove one of the opponent's pieces.\n\nReduce the opponent to two pieces, or block them, to win.";
+
+/* ---------- Appearance ---------- */
+"settings.section.game"       = "Game";
+"settings.section.appearance" = "Appearance";
+"appearance.system"           = "System";
+"appearance.light"            = "Light";
+"appearance.dark"             = "Dark";
+"licenses.fonts"              = "Fonts";
+"licenses.sounds"             = "Sounds";
+"licenses.note"               = "All assets are free for commercial use. Full details are in the repository.";
+
+/* ---------- Paywall and coming soon ---------- */
+"unlock.title"            = "Unlock the whole collection";
+"unlock.subtitle"         = "Four more games, for two, on a single device.";
+"unlock.trust.once"       = "One purchase, unlocked forever";
+"unlock.trust.noSub"      = "No subscription, no ads";
+"unlock.trust.family"     = "Family Sharing included";
+"hub.comingSoon.title"    = "More games are coming";
+"hub.comingSoon.subtitle" = "The collection grows regularly, at no extra cost.";
+
+/* ---------- Language ---------- */
+"settings.section.language" = "Language";
+"language.system"           = "System";
+"onboarding.language.title" = "Choose your language";
+
+/* ---------- Paywall états ---------- */
+"unlock.loading"     = "Loading the offer…";
+"unlock.unavailable" = "Offer unavailable right now.";
+"unlock.retry"       = "Try again";
+
+/* ---------- Prénoms ---------- */
+"names.title"    = "Who is playing?";
+"names.subtitle" = "Two names, to keep score.";
+"names.continue" = "Continue";

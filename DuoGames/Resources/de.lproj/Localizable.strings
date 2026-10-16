@@ -1,0 +1,153 @@
+/* Spiele */
+"game.airHockey.title" = "Air Hockey";
+"game.airHockey.pitch" = "Der Puck fliegt, Reflexe entscheiden.";
+"game.chess.title"     = "Schach";
+"game.chess.pitch"     = "Der große Klassiker, von Angesicht zu Angesicht.";
+"game.draughts.title"  = "Dame";
+"game.draughts.pitch"  = "Schlagzwang, fliegende Damen.";
+"game.tron.title"      = "Tron";
+"game.tron.pitch"      = "Zwei Spuren, ein Überlebender.";
+"game.mill.title"      = "Mühle";
+"game.mill.pitch"      = "Drei in einer Reihe, nimm dem anderen die Steine.";
+
+/* Plätze */
+"seat.one" = "Spieler 1";
+"seat.two" = "Spieler 2";
+
+/* Seiten */
+"chess.player.white"     = "Weiß";
+"chess.player.black"     = "Schwarz";
+"draughts.player.white"  = "Weiß";
+"draughts.player.black"  = "Schwarz";
+"mill.player.white"      = "Weiß";
+"mill.player.black"      = "Schwarz";
+"tron.rider.cyan"        = "Cyan";
+"tron.rider.magenta"     = "Magenta";
+"airhockey.player.near"  = "Nahe Seite";
+"airhockey.player.far"   = "Gegenüber";
+
+/* Schachfiguren */
+"chess.piece.pawn"   = "Bauer";
+"chess.piece.knight" = "Springer";
+"chess.piece.bishop" = "Läufer";
+"chess.piece.rook"   = "Turm";
+"chess.piece.queen"  = "Dame";
+"chess.piece.king"   = "König";
+
+/* Einführung */
+"onboarding.step1.title"    = "Legt das Telefon flach hin";
+"onboarding.step1.subtitle" = "Ganz aufgeklappt, in die Tischmitte.";
+"onboarding.step2.title"    = "Setzt euch gegenüber";
+"onboarding.step2.subtitle" = "Jeder auf einer Seite des Knicks.";
+"onboarding.step3.title"    = "Los geht's";
+"onboarding.step3.subtitle" = "Kein Konto, keine Verbindung. Einfach spielen.";
+"onboarding.skip"           = "Überspringen";
+"onboarding.next"           = "Weiter";
+
+/* Haltung */
+"pose.closed"    = "Geschlossen";
+"pose.portrait"  = "Hochformat";
+"pose.landscape" = "Querformat";
+"pose.seated"    = "Aufgestellt";
+"pose.standing"  = "Stehend";
+"pose.unknown"   = "Unbekannt";
+"guidance.layFlat"   = "Klappe das Gerät flach auf den Tisch";
+"guidance.needsFlat" = "Das Spiel geht weiter, sobald das Gerät flach liegt";
+"guidance.ready"     = "Los geht's";
+
+/* Menü und Navigation */
+"hub.title"       = "Duo Games";
+"hub.subtitle"    = "Zwei Spieler, ein Gerät.";
+"hub.locked"      = "Gesperrt";
+"nav.profile"     = "Spieler";
+"nav.settings"    = "Einstellungen";
+"nav.leaderboard" = "Bestenliste";
+"nav.back"        = "Zurück";
+"nav.close"       = "Schließen";
+
+/* Tutorial und Spiel */
+"tutorial.start"     = "Starten";
+"game.yourTurn"      = "Du bist dran";
+"game.opponentTurn"  = "Gegner ist dran";
+"game.pause"         = "Pause";
+"game.resume"        = "Fortsetzen";
+"game.quit"          = "Spiel verlassen";
+
+/* Spielende */
+"result.victory"   = "Sieg";
+"result.defeat"    = "Niederlage";
+"result.draw"      = "Unentschieden";
+"result.rematch"   = "Revanche";
+"result.backToHub" = "Anderes Spiel wählen";
+"result.check"     = "Schach";
+"result.checkmate" = "Schachmatt";
+"result.stalemate" = "Patt";
+
+/* Spieler */
+"profile.title"   = "Spieler";
+"profile.wins"    = "Siege";
+"profile.draws"   = "Remis";
+"profile.duels"   = "Letzte Duelle";
+"profile.rename"  = "Name";
+"profile.avatar"  = "Avatar";
+"profile.privacy" = "Kein Konto nötig. Eure Namen und Punkte bleiben auf diesem Gerät; nur die Game-Center-Bestenlisten werden mit Apple geteilt, wenn du sie aktivierst.";
+
+/* Einstellungen */
+"settings.sound"       = "Ton";
+"settings.haptics"     = "Vibration";
+"settings.language"    = "Sprache";
+"settings.licenses"    = "Lizenzen";
+"settings.diagnostics" = "Diagnose";
+
+/* Dame und Mühle */
+"draughts.mustCapture" = "Schlagen ist Pflicht";
+"mill.place"           = "Setze einen Stein";
+"mill.removePiece"     = "Entferne einen gegnerischen Stein";
+"leaderboard.gameCenter" = "Game Center";
+
+/* Bedienungshilfen */
+"hub.gamesList"       = "Spieleliste";
+"hub.hint.play"       = "Startet ein Spiel";
+"hub.hint.locked"     = "Öffnet den Freischalt-Bildschirm";
+"onboarding.progress %lld %lld" = "Schritt %lld von %lld";
+
+/* Tutorials */
+"game.airHockey.tutorial" = "Legt das Telefon flach zwischen euch. Jeder verteidigt das Tor unten auf seiner Seite.\n\nWisch mit dem Finger in deiner Hälfte, um deinen Schläger zu bewegen. Triff den Puck ins gegnerische Tor. Wer zuerst 7 Tore hat, gewinnt.\n\nDein Schläger überquert nie die Mittellinie.";
+"game.chess.tutorial" = "Klassisches Schach, von Angesicht zu Angesicht. Weiß spielt von unten, Schwarz von oben, für jeden Spieler richtig herum.\n\nTippe eine Figur an, um ihre Züge zu sehen, dann tippe auf das Zielfeld. Rochade, En passant und Umwandlung laufen automatisch.\n\nSetze den gegnerischen König schachmatt, um zu gewinnen.";
+"game.draughts.tutorial" = "Internationale Dame, auf einem 10-mal-10-Brett. Weiß unten, Schwarz oben.\n\nTippe einen Stein an, dann ein freies dunkles Feld. Schlagen ist Pflicht: gibt es Schlagzüge, musst du den längsten spielen. Ein Stein, der die letzte Reihe erreicht, wird zur Dame, die über die ganze Diagonale fliegt.\n\nSchlage alle gegnerischen Steine, um zu gewinnen.";
+"game.tron.tutorial" = "Zwei Lichtmotorräder, eine Arena. Jeder lenkt aus seiner Hälfte.\n\nWisch in eine Richtung, um abzubiegen. Dein Motorrad zieht eine Spur hinter sich her. Fahre nicht in eine Wand, eine Spur oder das andere Motorrad.\n\nWer als Letzter fährt, gewinnt.";
+"game.mill.tutorial" = "Mühle, auf drei verbundenen Quadraten. Jeder hat neun Steine.\n\nSetzt zuerst abwechselnd eure Steine auf die Schnittpunkte. Bewegt sie dann entlang der Linien. Drei in einer Reihe ergeben eine Mühle und du darfst einen gegnerischen Stein entfernen.\n\nBringe den Gegner auf zwei Steine oder blockiere ihn, um zu gewinnen.";
+
+/* Erscheinungsbild */
+"settings.section.game"       = "Spiel";
+"settings.section.appearance" = "Erscheinungsbild";
+"appearance.system"           = "System";
+"appearance.light"            = "Hell";
+"appearance.dark"             = "Dunkel";
+"licenses.fonts"              = "Schriften";
+"licenses.sounds"             = "Töne";
+"licenses.note"               = "Alle Inhalte sind frei für kommerzielle Nutzung. Details im Repository.";
+
+/* Freischalten und Demnächst */
+"unlock.title"            = "Schalte die ganze Sammlung frei";
+"unlock.subtitle"         = "Vier weitere Spiele, zu zweit, auf einem Gerät.";
+"unlock.trust.once"       = "Ein Kauf, für immer freigeschaltet";
+"unlock.trust.noSub"      = "Kein Abo, keine Werbung";
+"unlock.trust.family"     = "Familienfreigabe inklusive";
+"hub.comingSoon.title"    = "Weitere Spiele kommen";
+"hub.comingSoon.subtitle" = "Die Sammlung wächst regelmäßig, ohne Aufpreis.";
+
+/* Sprache */
+"settings.section.language" = "Sprache";
+"language.system" = "System";
+"onboarding.language.title" = "Wähle deine Sprache";
+
+/* ---------- Paywall états ---------- */
+"unlock.loading"     = "Angebot wird geladen…";
+"unlock.unavailable" = "Angebot derzeit nicht verfügbar.";
+"unlock.retry"       = "Erneut versuchen";
+
+/* ---------- Prénoms ---------- */
+"names.title"    = "Wer spielt?";
+"names.subtitle" = "Zwei Namen, um Punkte zu zählen.";
+"names.continue" = "Weiter";
